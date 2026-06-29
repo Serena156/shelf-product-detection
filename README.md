@@ -93,6 +93,6 @@ shelf_detection/
  
 Python 3.12, PyTorch 2.11, Ultralytics 8.4.75, torchvision 0.18, effdet 0.4, pycocotools, Gradio.
  
-## Авторы
+## Автор
  
-Петчак М.И., Филиппова А.А., группа УБВТ2304, 2026.
+Филиппова А.А., группа УБВТ2304, 2026.
